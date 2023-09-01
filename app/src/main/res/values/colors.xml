@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue90">#ccccff</color>
+    <color name="blue80">#6666ff</color>
+    <color name="blue60">#3333ff</color>
+    <color name="blue40">#0000cc</color>
+    <color name="blue30">#000099</color>
+    <color name="blue20">#000066</color>
+    <color name="blue10">#000033</color>
+
+    <color name="purple100">#EDE4FF</color>
+    <color name="purple90">#f5ccff</color>
+    <color name="purple80">#A076F9</color>
+    <color name="purple60">#eb99ff</color>
+    <color name="purple40">#a300cc</color>
+    <color name="purple30">#7a0099</color>
+    <color name="purple20">#520066</color>
+    <color name="purple10">#290033</color>
+
+    <color name="primary">#EDE4FF</color>
+</resources>

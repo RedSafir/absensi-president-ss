@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Absensi Presiden</string>
+    <string name="name">akjsfkasjdfasjdfljasdfjasldjflasjdflasfjl</string>
+    <string name="nama_presiden">Nama Presiden</string>
+    <string name="dummy_text">lorem ipsum lores padsaa kamp</string>
+    <string name="dummy_title">lorem ipsum lores</string>
+    <string name="partai">Partai</string>
+    <string name="masa_jabatan">Masa Jabatan</string>
+
+    <string-array name="data_name">
+        <item>DR. Ir. H. Soekarno</item>
+        <item>Dr. H. Susilo Bambang Yudhoyono</item>
+        <item>Joko Widodo</item>
+        <item>Bacharuddin Jusuf Habibie</item>
+        <item>George Washington</item>
+        <item>John F. Kennedy</item>
+        <item>Barack Hussein Obama II</item>
+        <item>Donald John Trump</item>
+        <item>Vladimir Vladimirovich Putin</item>
+        <item>Dmitriy Anatolyevich Medvedev</item>
+    </string-array>
+
+    <string-array name="data_negara">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Amerika</item>
+        <item>Amerika</item>
+        <item>Amerika</item>
+        <item>Amerika</item>
+        <item>Russia</item>
+        <item>Russia</item>
+    </string-array>
+
+    <string-array name="data_politik">
+        <item>Soekarno adalah seorang tokoh politik Indonesia yang dikenal sebagai proklamator kemerdekaan Indonesia pertama dan juga Presiden pertama negara tersebut. Pandangan politiknya dapat diringkas sebagai nasionalisme yang kuat, yang mengedepankan kemerdekaan dan persatuan Indonesia di atas segala-galanya. Ia menganjurkan konsep "Nasionalisme, Agama, dan Komunisme" yang dikenal dengan sebutan Nasakom, yang mencoba menggabungkan unsur-unsur nasionalisme, agama, dan sosialisme dalam satu wadah politik. Pandangan ini mencerminkan usahanya untuk mempersatukan berbagai kelompok politik dan ideologi dalam upaya mencapai kemerdekaan dan stabilitas negara setelah masa penjajahan Belanda.</item>
+        <item>Susilo Bambang Yudhoyono (SBY) adalah mantan Presiden Indonesia yang memiliki pandangan politik yang lebih moderat dan pragmatis. Ia dikenal dengan pendekatan yang cenderung pro-ekonomi pasar dan hubungan internasional yang lebih moderat. SBY berupaya untuk menguatkan perekonomian Indonesia dan memperbaiki citra internasional negara ini, sambil menekankan pentingnya demokrasi dan stabilitas politik dalam negeri. Pandangan politiknya menekankan perdamaian, diplomasi, dan pembangunan ekonomi sebagai prioritas, dengan penekanan pada pembangunan infrastruktur dan reformasi birokrasi.</item>
+        <item>Joko Widodo, yang lebih dikenal sebagai Jokowi, adalah Presiden Indonesia yang memiliki pandangan politik yang cenderung pro-ekonomi pasar dan pembangunan infrastruktur. Ia sangat vokal dalam mendorong pertumbuhan ekonomi dan investasi asing, serta memprioritaskan program-program pembangunan infrastruktur besar seperti jalan, jembatan, dan pelabuhan. Selain itu, Jokowi juga mengedepankan pemberantasan korupsi dan reformasi birokrasi sebagai upaya untuk meningkatkan efisiensi dan transparansi pemerintahan. Pandangannya juga mencerminkan kepentingan dalam memperluas kesejahteraan masyarakat dengan berbagai program sosial dan ekonomi yang berfokus pada pengentasan kemiskinan dan pengembangan sumber daya manusia.</item>
+        <item>B.J. Habibie adalah mantan Presiden Indonesia yang dikenal dengan pandangan politik yang mencerminkan perpaduan antara visi teknologi dan industri dengan nilai-nilai demokrasi. Ia sangat mendorong kemajuan teknologi dan industri dalam upaya mengembangkan Indonesia sebagai negara yang mandiri dan berdaya saing. Selain itu, ia juga memberikan penekanan pada demokrasi dan hak asasi manusia, termasuk mengadakan pemilu yang bebas dan adil serta mendukung kebebasan berpendapat. Pandangan politik Habibie mencerminkan upaya untuk menggabungkan perkembangan teknologi dan demokrasi sebagai landasan pembangunan Indonesia.</item>
+        <item>George Washington adalah salah satu pendiri Amerika Serikat dan presiden pertama negara ini. Pandangan politiknya dapat diringkas sebagai penganut prinsip republikanisme dan federalisme. Ia sangat mendukung ide-ide demokrasi yang terbatas, dengan penekanan pada pemilihan kepemimpinan yang terpilih oleh rakyat. Washington juga sangat memperhatikan persatuan nasional dan pentingnya menjaga stabilitas pemerintahan federal. Ia menekankan pentingnya netralitas Amerika dalam urusan internasional, menghindari keterlibatan dalam konflik asing yang tidak perlu. Pandangan politiknya dan kepemimpinannya membentuk dasar-dasar awal pemerintahan Amerika Serikat yang kuat dan berdasarkan hukum.</item>
+        <item>John F. Kennedy adalah mantan Presiden Amerika Serikat yang dikenal dengan pandangan politik yang berfokus pada reformasi sosial dan perluasan hak-hak sipil. Ia aktif dalam mendukung perubahan dalam isu-isu seperti pemisahan rasial, hak-hak sipil, dan perluasan program sosial, seperti Medicare. Kennedy juga menganjurkan pendekatan luar negeri yang lebih progresif, dengan penekanan pada diplomasi dan negosiasi dalam mengatasi konflik internasional, seperti krisis misil Kuba. Pandangan politiknya mencerminkan visi sosial dan liberal yang berusaha untuk menciptakan masyarakat yang lebih adil dan aman, baik di dalam negeri maupun di dunia internasional.</item>
+        <item>Barack Obama adalah mantan Presiden Amerika Serikat yang dikenal dengan pandangan politik yang cenderung progresif dan inklusif. Ia mendukung reformasi sistem perawatan kesehatan, perlindungan lingkungan, hak-hak LGBT, dan kebijakan imigrasi yang lebih inklusif. Obama juga menjunjung tinggi diplomasi multilateral dalam urusan internasional dan mendukung kesepakatan nuklir dengan Iran. Selain itu, ia menekankan pentingnya dialog antarbudaya dan perdamaian dunia serta berjuang untuk mengakhiri perang di Irak dan Afganistan. Pandangannya mencerminkan nilai-nilai kesetaraan, keadilan sosial, dan diplomasi dalam politik Amerika Serikat.</item>
+        <item>Donald John Trump adalah mantan Presiden Amerika Serikat yang memiliki pandangan politik yang kontroversial dan populist. Ia dikenal karena pendekatannya yang nasionalis, proteksionis dalam hal perdagangan, serta sikap keras terhadap imigrasi ilegal. Trump menerapkan kebijakan deregulasi ekonomi dan pemotongan pajak perusahaan untuk mendorong pertumbuhan ekonomi, sambil menekankan kebijakan "America First" yang menempatkan kepentingan Amerika di atas segalanya dalam urusan internasional. Selain itu, retorika dan tindakan Trump sering kali memicu kontroversi dalam isu-isu seperti perubahan iklim, hak-hak LGBT, dan hubungan dengan sekutu Amerika Serikat.</item>
+        <item>Vladimir Vladimirovich Putin adalah Presiden Rusia yang memiliki pandangan politik yang cenderung otoriter dan nasionalis. Ia menekankan kekuatan dan kedaulatan Rusia dalam urusan domestik dan internasional, sering kali dengan mengorbankan hak asasi manusia dan demokrasi. Putin memimpin negara dengan tangan besi, mengontrol media, oposisi politik, dan institusi-institusi kunci, serta berupaya untuk memulihkan pengaruh Rusia di dunia dengan intervensi di Ukraina, Suriah, dan campur tangan dalam pemilihan luar negeri. Pandangan politiknya mengutamakan stabilitas dan kekuatan negara di atas prinsip-prinsip demokrasi liberal.</item>
+        <item>Dmitriy Anatolyevich Medvedev adalah politisi Rusia yang pernah menjabat sebagai Presiden Rusia dan saat ini menjabat sebagai Wakil Ketua Dewan Keamanan Nasional. Pandangan politiknya sering dikaitkan dengan Presiden Rusia Vladimir Putin, yang menjadi mentornya. Medvedev dikenal sebagai seorang pragmatis yang menganut pendekatan yang lebih moderat dalam kebijakan ekonomi dan luar negeri, serta mendukung modernisasi dan reformasi ekonomi. Meskipun demikian, ia juga dianggap sebagai figur yang setia kepada Putin dan sering dianggap sebagai alat untuk menjaga stabilitas politik di Rusia.</item>
+    </string-array>
+
+    <string-array name="data_bio">
+        <item>Soekarno, lahir pada 6 Juni 1901 di Blitar, Jawa Timur, adalah seorang tokoh nasionalis Indonesia yang menjadi proklamator kemerdekaan Indonesia pertama dan Presiden pertama negara itu. Ia adalah sosok karismatik yang memimpin perjuangan melawan penjajahan Belanda dan kemudian Jepang. Soekarno dikenal karena visinya yang kuat untuk persatuan Indonesia dan nasionalisme yang tegas. Setelah Indonesia merdeka pada tahun 1945, ia menjadi Presiden pertama dan memimpin negara selama dua puluh tahun. Meskipun kontroversial, kepemimpinan Soekarno mencerminkan semangat perjuangan untuk kemerdekaan dan persatuan Indonesia dalam menghadapi berbagai tantangan dalam periode pasca-kolonialnya. Soekarno meninggal pada 21 Juni 1970, namun warisannya sebagai Bapak Bangsa tetap berpengaruh dalam sejarah Indonesia hingga hari ini.</item>
+        <item>Dr. H. Susilo Bambang Yudhoyono, atau yang lebih dikenal dengan SBY, adalah seorang politisi Indonesia yang menjabat sebagai Presiden Indonesia dari tahun 2004 hingga 2014. Ia lahir pada 9 September 1949 di Pacitan, Jawa Timur. SBY memiliki latar belakang militer dan pernah menjabat sebagai Kepala Staf Angkatan Darat Indonesia sebelum memasuki dunia politik. Sebagai Presiden, SBY dikenal dengan pendekatan moderatnya dalam kebijakan ekonomi dan politik, dengan penekanan pada reformasi ekonomi dan demokrasi. Ia juga aktif dalam isu-isu lingkungan dan pembangunan berkelanjutan. Setelah masa kepemimpinannya, SBY tetap menjadi tokoh penting dalam politik Indonesia dan memimpin partainya, Partai Demokrat.</item>
+        <item>Joko Widodo, yang lebih dikenal sebagai Jokowi, adalah politisi Indonesia yang lahir pada 21 Juni 1961 di Surakarta, Jawa Tengah. Ia meraih gelar sarjana di bidang kehutanan dan bekerja sebagai pengusaha di bidang industri mebel sebelum memasuki dunia politik. Jokowi dikenal dengan pendekatan yang vokal terhadap pemberantasan korupsi dan reformasi birokrasi selama karir politiknya. Ia menjadi Wali Kota Solo pada tahun 2005 dan kemudian Gubernur DKI Jakarta pada tahun 2012. Pada tahun 2014, Jokowi terpilih sebagai Presiden Indonesia yang ke-7. Kepemimpinannya mencirikan upaya untuk meningkatkan pertumbuhan ekonomi, memprioritaskan pembangunan infrastruktur, serta mengedepankan program-program sosial dan kesejahteraan masyarakat. Jokowi juga memegang peran penting dalam menjaga stabilitas politik dan mengembangkan hubungan luar negeri Indonesia.</item>
+        <item>Bacharuddin Jusuf Habibie, atau lebih dikenal sebagai B.J. Habibie, adalah seorang ilmuwan dan politisi Indonesia yang memegang jabatan Presiden Republik Indonesia ke-3 dari tahun 1998 hingga 1999. Ia dilahirkan pada tahun 1936 di Parepare, Sulawesi Selatan, dan mendapatkan gelar doktor di bidang teknik mesin di Jerman. Habibie banyak berkontribusi dalam pengembangan industri dirgantara dan teknologi di Indonesia. Selama masa kepemimpinannya sebagai presiden, ia mengusahakan reformasi politik dan ekonomi serta menggelar Pemilihan Umum 1999 yang bersejarah. Meskipun masa pemerintahannya relatif singkat, Habibie dikenang sebagai tokoh yang mendorong perubahan penting dalam arah politik dan ekonomi Indonesia menuju era reformasi.</item>
+        <item>George Washington adalah salah satu pendiri Amerika Serikat dan Presiden pertama negara itu. Lahir pada tahun 1732 di Virginia, ia adalah seorang pemimpin militer yang berpengaruh selama Perang Revolusi Amerika dan memainkan peran kunci dalam memenangkan kemerdekaan Amerika Serikat dari Inggris. Washington dihormati karena integritasnya, kepemimpinan yang kuat, dan kemampuannya dalam membentuk dasar-dasar pemerintahan baru. Sebagai Presiden pertama, ia menetapkan banyak tradisi dan prinsip-prinsip yang menjadi landasan bagi sistem politik Amerika Serikat yang masih berlaku hingga saat ini. Ia juga dikenal sebagai "Bapak Bangsa" karena jasanya dalam membantu menggabungkan dan mempersatukan negara yang baru merdeka ini. Washington meninggal pada tahun 1799, tetapi warisannya sebagai salah satu tokoh paling bersejarah dan dihormati dalam sejarah Amerika Serikat tetap berlanjut hingga saat ini.</item>
+        <item>John Fitzgerald Kennedy, atau lebih dikenal sebagai JFK, adalah Presiden Amerika Serikat ke-35 yang menjabat dari 1961 hingga 1963. Lahir pada tahun 1917, JFK berasal dari keluarga terkemuka dalam politik AS. Sebelum menjadi presiden, ia melayani dalam Angkatan Laut Amerika Serikat selama Perang Dunia II dan kemudian terpilih sebagai senator dari Massachusetts. Sebagai presiden, Kennedy dikenal dengan semangatnya untuk mengatasi tantangan-tantangan besar, termasuk Perang Dingin dan gerakan hak sipil di Amerika Serikat. Ia terkenal dengan pidato inspirasionalnya yang memotivasi Amerika Serikat untuk mengejar penjelajahan ruang angkasa dan menghadapi krisis Misil Kuba. Sayangnya, masa kepemimpinannya terhenti tragis ketika ia dibunuh oleh penembak jitu pada tahun 1963. JFK dihormati karena karismanya dan kontribusinya dalam sejarah AS sebagai salah satu pemimpin yang paling diingat dalam sejarah Amerika.</item>
+        <item>Barack Hussein Obama II adalah politikus Amerika Serikat yang lahir pada 4 Agustus 1961 di Honolulu, Hawaii. Ia menjadi Presiden Amerika Serikat ke-44 dan menjabat dari 2009 hingga 2017, menjadi presiden pertama berkulit hitam di Amerika. Sebelumnya, Obama merupakan Senator AS dari Illinois. Kepemimpinannya ditandai oleh upaya reformasi dalam sistem perawatan kesehatan, pengurangan senjata nuklir, perubahan iklim, dan peningkatan hubungan internasional. Ia memenangkan Hadiah Nobel Perdamaian pada tahun 2009. Biografi Obama mencerminkan perjalanan inspiratif dari latar belakang yang sederhana hingga mencapai posisi tertinggi di politik Amerika Serikat.</item>
+        <item>Donald John Trump adalah seorang pengusaha dan politisi Amerika yang lahir pada 14 Juni 1946 di Queens, New York. Sebelum terjun ke dunia politik, Trump dikenal sebagai pengembang properti ternama dan sosialita terkemuka. Ia mendirikan The Trump Organization, yang berbisnis di berbagai sektor, termasuk real estat, hiburan, dan perhotelan. Pada tahun 2016, Trump terpilih sebagai Presiden Amerika Serikat ke-45, mengalahkan kandidat dari Partai Demokrat Hillary Clinton. Sebagai presiden, Trump dikenal dengan gaya retorika yang kontroversial dan kebijakan yang mendukung ekonomi pasar, pengurangan pajak, serta kebijakan luar negeri yang sering kali menjadi sorotan. Ia meninggalkan jabatan presiden pada Januari 2021 setelah kekalahan dalam pemilihan presiden AS oleh Joe Biden.</item>
+        <item>Vladimir Vladimirovich Putin lahir pada 7 Oktober 1952 di Leningrad, Uni Soviet (sekarang St. Petersburg, Rusia). Ia adalah seorang politisi Rusia yang memegang berbagai posisi tinggi dalam pemerintahan, termasuk menjadi Presiden Rusia sebanyak dua kali, pertama kali pada tahun 1999 hingga 2008, dan kemudian kembali menjabat sejak 2012 hingga saat ini. Sebelum terjun ke politik, Putin bekerja di berbagai posisi intelijen KGB dan mengabdi dalam birokrasi pemerintahan Soviet dan Rusia. Pandangan politiknya cenderung konservatif dan otoriter, dengan penekanan pada kebijakan luar negeri yang kuat serta pemulihan kekuatan Rusia di dunia internasional. Ia juga memimpin berbagai reformasi ekonomi dan politik di Rusia selama masa pemerintahannya, yang telah menciptakan perdebatan yang intens mengenai gaya pemerintahannya dan dampaknya terhadap negara dan masyarakat Rusia.</item>
+        <item>Dmitriy Anatolyevich Medvedev adalah seorang politisi Rusia yang lahir pada 14 September 1965 di Leningrad (sekarang St. Petersburg). Ia memulai kariernya sebagai seorang pengacara sebelum terjun ke politik. Pada tahun 2008, ia terpilih sebagai Presiden Rusia dan menjabat hingga 2012, menggantikan Vladimir Putin yang saat itu menjadi Perdana Menteri. Selama masa kepresidenannya, Medvedev berusaha untuk memodernisasi ekonomi Rusia dan meningkatkan hubungan luar negeri dengan negara-negara Barat. Setelah itu, ia menjadi Perdana Menteri Rusia selama satu periode dan saat ini menjabat sebagai Wakil Ketua Dewan Keamanan Nasional, tetap menjadi figur berpengaruh dalam politik Rusia. Meskipun memiliki pandangan politik yang lebih moderat daripada Putin, ia sering dianggap sebagai sekutu setia dan mendukung agenda politik Kremlin.</item>
+    </string-array>
+
+    <string-array name="data_masa">
+        <item>1945 – 1968 (23 Tahun)</item>
+        <item>2004 – 2014 (10 Tahun)</item>
+        <item>2014 – 2024 (10 Tahun)</item>
+        <item>1998 – 1999 (1 Tahun)</item>
+        <item>1789 – 1797 (8 Tahun)</item>
+        <item>1961 – 1963 (2 Tahun)</item>
+        <item>2009 – 2017 (8 Tahun)</item>
+        <item>2017 – 2021 (4 Tahun)</item>
+        <item>2000 – 2008 / 2012 - Sekarang</item>
+        <item>2008 – 2012 (4 tahun)</item>
+    </string-array>
+
+    <string-array name="img_president">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/800px-Presiden_Sukarno.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/eb/Susilo_Bambang_Yudhoyono_2009_official_portrait.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joko_Widodo_2019_official_portrait.jpg/800px-Joko_Widodo_2019_official_portrait.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/B._J._Habibie%2C_President_of_Indonesia_portrait.jpg/800px-B._J._Habibie%2C_President_of_Indonesia_portrait.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/800px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/800px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/800px-President_Barack_Obama.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/800px-Donald_Trump_official_portrait.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/51/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2818-06-2023%29_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%2808-04-2022%29.jpg/800px-%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%2808-04-2022%29.jpg</item>
+    </string-array>
+
+    <integer-array name="data_checked">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+</resources>

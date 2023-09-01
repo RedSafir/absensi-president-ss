@@ -1,0 +1,88 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AbsensiPresiden" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blue40</item>
+        <item name="colorOnPrimary">@color/blue90</item>
+        <item name="colorContainer">@color/blue80</item>
+        <item name="colorOnContainer">@color/blue10</item>
+
+        <item name="colorSecondary">@color/purple40</item>
+        <item name="colorOnSecondary">@color/purple90</item>
+        <item name="colorSecondaryContainer">@color/purple80</item>
+        <item name="colorOnSecondaryContainer">@color/purple10</item>
+    </style>
+
+    <style name="bgPrimary">
+        <item name="android:background">@color/purple100</item>
+    </style>
+
+    <style name="unCheck">
+        <item name="android:background">@color/purple90</item>
+        <item name="strokeColor">@color/blue10</item>
+        <item name="strokeWidth">10dp</item>
+    </style>
+
+    <style name="Check">
+        <item name="android:background">@color/blue40</item>
+        <item name="android:textColor">@color/purple10</item>
+    </style>
+
+    <style name="TextContent">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextContent.BodyMedium">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyMedium</item>
+    </style>
+
+    <style name="TextContent.BodyMedium.Margin8">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+
+    <style name="BodyMedium.lightFont" parent="TextContent.BodyMedium.Margin8">
+        <item name="android:textColor">@color/blue90</item>
+    </style>
+
+    <style name="BodyMedium.darkFont" parent="TextContent.BodyMedium.Margin8">
+        <item name="android:textColor">@color/blue10</item>
+    </style>
+
+    <style name="TextContent.Title">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.TitleMedium</item>
+    </style>
+
+    <style name="TextContent.Title.Margin8">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+
+    <style name="Title.lightFont" parent="TextContent.Title.Margin8">
+        <item name="android:textColor">@color/blue90</item>
+
+    </style>
+
+    <style name="Title.darkFont" parent="TextContent.Title.Margin8">
+        <item name="android:textColor">@color/blue10</item>
+    </style>
+
+    <style name="TextContent.Headline">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineMedium</item>
+    </style>
+
+    <style name="Headline.lightFont" parent="TextContent.Headline">
+        <item name="android:textColor">@color/blue90</item>
+    </style>
+
+    <style name="Headline.darkFont" parent="TextContent.Headline">
+        <item name="android:textColor">@color/blue10</item>
+    </style>
+
+
+    <style name="Theme.AbsensiPresiden" parent="Base.Theme.AbsensiPresiden" />
+</resources>
