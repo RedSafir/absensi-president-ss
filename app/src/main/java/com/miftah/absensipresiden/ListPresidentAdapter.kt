@@ -10,6 +10,8 @@ class ListPresidentAdapter(
     private val listPresident: ArrayList<President>
 ) : RecyclerView.Adapter<ListPresidentAdapter.ListViewHolder>() {
 
+    private lateinit var onItemClickCallback: IonClickListerner
+
     inner class ListViewHolder(var binding: ItemRowPresidentBinding) :
         RecyclerView.ViewHolder(binding.root)
 
@@ -22,7 +24,7 @@ class ListPresidentAdapter(
     override fun getItemCount(): Int = listPresident.size
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (nama, negara, partai, pandangan, bio, foto, check) = listPresident[position]
+        val (nama, negara, _, _, _, foto, check) = listPresident[position]
 
         holder.binding.apply {
             this.txtNamePresident.text = nama
@@ -32,9 +34,41 @@ class ListPresidentAdapter(
             Glide.with(holder.itemView.context)
                 .load(foto)
                 .into(this.imgPresiden)
+
+            if (this.cbKehadiran.isChecked) {
+                this.cardPresident.setBackgroundColor(R.style.Check)
+                holder.binding.txtNamePresident.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue90))
+                holder.binding.cdCountry.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue90))
+            } else {
+                this.cardPresident.setBackgroundColor(R.style.unCheck)
+                holder.binding.txtNamePresident.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue10))
+                holder.binding.cdCountry.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue10))
+            }
         }
 
+        holder.itemView.setOnClickListener{
+            onItemClickCallback.onClickView(listPresident[holder.adapterPosition])
+        }
+
+        holder.binding.cbKehadiran.setOnCheckedChangeListener { _, isChecked ->
+            if(isChecked){
+                holder.binding.cardPresident.setBackgroundColor(R.style.Check)
+                holder.binding.txtNamePresident.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue90))
+                holder.binding.cdCountry.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue90))
+            } else{
+                holder.binding.cardPresident.setBackgroundColor(R.style.unCheck)
+                holder.binding.txtNamePresident.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue10))
+                holder.binding.cdCountry.setTextColor(holder.binding.cardPresident.context.getColor(R.color.blue10))
+            }
+        }
     }
 
+    interface IonClickListerner {
+        fun onClickView(data : President)
+    }
+
+    fun setOnItemCallback(onItemClickCallback: IonClickListerner) {
+        this.onItemClickCallback = onItemClickCallback
+    }
 
 }
