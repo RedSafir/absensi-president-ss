@@ -46,6 +46,10 @@ class ListPresidentAdapter(
             }
         }
 
+        holder.binding.cbKehadiran.setOnClickListener {
+            onItemClickCallback.onClickCb(holder.adapterPosition)
+        }
+
         holder.itemView.setOnClickListener{
             onItemClickCallback.onClickView(listPresident[holder.adapterPosition])
         }
@@ -65,6 +69,7 @@ class ListPresidentAdapter(
 
     interface IonClickListerner {
         fun onClickView(data : President)
+        fun onClickCb(index : Int)
     }
 
     fun setOnItemCallback(onItemClickCallback: IonClickListerner) {
