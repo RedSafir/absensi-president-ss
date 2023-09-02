@@ -101,7 +101,7 @@ class MainActivity : AppCompatActivity() {
                 moveToBio.putExtra(ProfileInformationActivity.EXTRA_NAMA, "Miftah Nugraha")
                 moveToBio.putExtra(
                     ProfileInformationActivity.EXTRA_BIO, """
-                    Nama ku Miftah Nugraha, berusia awal 20-an, memiliki hasrat yang mendalam untuk berjelajah dan menjelajahi keindahan alam Indonesia. Arka lahir dan dibesarkan di kota besar, tetapi sejak kecil, dia selalu merasa terikat dengan alam dan keindahan alam Indonesia yang beragam.
+                    Nama ku Miftah Nugraha, berusia awal 20-an, memiliki hasrat yang mendalam untuk berjelajah dan menjelajahi keindahan alam Indonesia. Miftah lahir dan dibesarkan di kota besar, tetapi sejak kecil, dia selalu merasa terikat dengan alam dan keindahan alam Indonesia yang beragam.
                 """.trimIndent()
                 )
                 moveToBio.putExtra(
